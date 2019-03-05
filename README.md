@@ -16,6 +16,7 @@ one per line into a `.csv` file specified in `Properties.Settings.Default.Tracke
 There are many limitations to this piece of code. For example, 
 * it would be nice to plug into windows authentication and log a username in an Active Directory domain. 
 * it would be nice to parse more headers and metadata from the request.
+* it would be nice to log to a database rather than to a text file.
 
 These are all enhancements you can build on top of this. But this is just a barebones PixelTracker :)
 
