@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("A basic implementation of a pixel tracker")]
 [assembly: AssemblyCompany("Matt | Varghese Mathew")]
 [assembly: AssemblyProduct("PixelTracker")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © 2019")]
 [assembly: AssemblyTrademark("PixelTracker")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
