@@ -18,6 +18,8 @@ There are many limitations to this piece of code. For example,
 * it would be nice to parse more headers and metadata from the request.
 * it would be nice to log to a database rather than to a text file.
 
-These are all enhancements you can build on top of this. But this is just a barebones PixelTracker :)
+These are all enhancements you can build on top of this. 
+This piece of code is intended as a barebones PixelTracker to demonstrate
+how one can leverage an ASP.NET module to do this.
 
 Cheers!
